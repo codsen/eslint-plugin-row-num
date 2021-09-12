@@ -21,6 +21,8 @@ test
 
 .npmignore
 .prettierignore
+leaveCoverageTotalOnly.js
 rollup.config.js
 testStats.md
 tsconfig.json
+tsconfig.build.json
